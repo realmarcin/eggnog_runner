@@ -1,0 +1,8 @@
+name: kg_microbe-eggnog-mapper-env
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - python=3.11.3
+  - eggnog-mapper
+  - pip
